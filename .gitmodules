@@ -1,0 +1,30 @@
+[submodule "DocsP4AEnglish"]
+	path = DocsP4AEnglish
+	url = https://github.com/glenntosco/DocsP4AEnglish.git
+[submodule "DocsP4ASpanish"]
+	path = DocsP4ASpanish
+	url = https://github.com/glenntosco/DocsP4ASpanish.git
+[submodule "DocsP4BEnglish"]
+	path = DocsP4BEnglish
+	url = https://github.com/glenntosco/DocsP4BEnglish.git
+[submodule "DocsP4BSpanish"]
+	path = DocsP4BSpanish
+	url = https://github.com/glenntosco/DocsP4BSpanish.git
+[submodule "DocsP4CEnglish"]
+	path = DocsP4CEnglish
+	url = https://github.com/glenntosco/DocsP4CEnglish.git
+[submodule "DocsP4CSpanish"]
+	path = DocsP4CSpanish
+	url = https://github.com/glenntosco/DocsP4CSpanish.git
+[submodule "DocsP4WClientPortalEnglish"]
+	path = DocsP4WClientPortalEnglish
+	url = https://github.com/glenntosco/DocsP4WClientPortalEnglish.git
+[submodule "DocsP4WClientPortalSpanish"]
+	path = DocsP4WClientPortalSpanish
+	url = https://github.com/glenntosco/DocsP4WClientPortalSpanish.git
+[submodule "DocsP4WEnglish"]
+	path = DocsP4WEnglish
+	url = https://github.com/glenntosco/DocsP4WEnglish.git
+[submodule "DocsP4WSpanish"]
+	path = DocsP4WSpanish
+	url = https://github.com/glenntosco/DocsP4WSpanish.git
