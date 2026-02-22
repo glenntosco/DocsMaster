@@ -1,5 +1,7 @@
 Before creating any transactions in P4 Books, complete the following setup steps **in order**. Each step builds on the previous one.
 
+
+
 ---
 
 ## Setup Checklist
