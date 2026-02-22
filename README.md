@@ -1,6 +1,6 @@
 ---
 
-## description: P4 Warehouse Change Log cover: .gitbook/assets/shutterstock_64776388.jpg coverY: 196.0352422907489
+##  /
 
 # P4 Warehouse Change Log
 
