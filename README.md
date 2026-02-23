@@ -10,5 +10,5 @@ The portal is divided into two distinct areas:
 
 ## Sections
 
-- [Admin Portal](/docs/Client-Portal-p4w/README)[ ](/docs/Client-Portal-p4w/README)— Client list, user management, and access generation
+- Admin Portal — Client list, user management, and access generation
 - Client Portal[ ](/docs/Client-Portal-p4w/README)— Master data, transactional operations, and reports
